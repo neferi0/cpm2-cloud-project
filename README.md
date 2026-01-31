@@ -41,4 +41,4 @@ This is a walkthrough on how I created a Cloud Environment that was secured thro
 </p>
 <br />
 <br />
-<h3 align="center">This concludes the first milestone </h3>
+<h3 align="center">This concludes the second milestone </h3>
